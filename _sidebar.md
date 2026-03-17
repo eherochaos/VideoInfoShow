@@ -1,4 +1,4 @@
-* [首页](/outline.md)
-* [笔记一](outline.md)
-* [笔记二](report.md)
+* [首页](README.md)
+* [大纲](outline.md)
+* [报告](report.md)
 ```
