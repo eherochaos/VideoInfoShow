@@ -1,4 +1,4 @@
 * [首页](/)
-* [笔记一](note1.md)
-* [笔记二](note2.md)
+* [笔记一](outline.md)
+* [笔记二](report.md)
 ```
